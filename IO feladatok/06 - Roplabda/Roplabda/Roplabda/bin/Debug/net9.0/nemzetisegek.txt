@@ -1,0 +1,58 @@
+﻿amerikai: 
+	 - Logan Tom -- �t�
+	 - Gabrielle Reece -- �t�
+
+azer: 
+	 - Yelizaveta Mammadova -- fogat�
+	 - Sabina Altynbekova -- fogat�
+
+belga: 
+	 - Charlotte Leys -- fogat�
+	 - Lise Van Hecke -- fogat�
+
+brazil: 
+	 - Jaqueline Carvalho -- �t�
+	 - Marianne Steinbrecher -- �t�
+	 - Tha�sa Menezes -- �t�
+	 - Tandara Caixeta -- fogat�
+
+holland: 
+	 - Robin de Kruijf -- �t�
+	 - Debby Stam-Pilon -- s�nc
+
+lengyel: 
+	 - Katarzyna Skowro�ska-Dolata -- �t�
+	 - Agnieszka Bednarek-Kasza -- s�nc
+	 - Eleonora Dzi�kiewicz -- s�nc
+	 - Anna Werbli�ska -- felad�
+	 - Malgorzata Glinka-Mogentale -- �t�
+
+magyar: 
+	 - Szpin Ren�ta -- liber�
+	 - Bodn�r Dorottya -- �t�
+	 - T�las Zsuzsanna -- felad�
+
+olasz: 
+	 - Francesca Piccinini -- �t�
+	 - Martina Guiggi -- s�nc
+	 - Cristina Chirichella -- �t�
+
+orosz: 
+	 - Yekaterina Gamova -- �t�
+	 - Lioubov Sokolova Kili� -- �t�
+
+szerb: 
+	 - Tanja Matic -- fogat�
+	 - Jovana Brakocevic -- �t�
+	 - Milena Ra�ic -- s�nc
+	 - Ivana �erisilo -- �t�
+	 - Anja Spasojevic -- fogat�
+
+szlov�k: 
+	 - Nikola Radosov� -- �t�
+
+t�r�k: 
+	 - G�zde Kirdar Sonsirma -- fogat�
+	 - Neslihan Demir -- fogat�
+	 - Naz Aydemir -- fogat�
+

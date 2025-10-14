@@ -1,0 +1,34 @@
+﻿Szpin Ren�ta	165	liber�	magyar	Rabita Baku	Azerbajdzs�n
+Anna Werbli�ska	178	felad�	lengyel	Fatum Ny�regyh�za	Magyarorsz�g
+Tanja Matic	178	fogat�	szerb	Fenerbah�e Acibadem	T�r�korsz�g
+T�las Zsuzsanna	178	felad�	magyar	Partizan	Szerbia
+Sabina Altynbekova	182	fogat�	azer	Asystel Novara	Lengyelorsz�g
+G�zde Kirdar Sonsirma	183	fogat�	t�r�k	Telekom Baku	Azerbajdzs�n
+Francesca Piccinini	184	�t�	olasz	Partizan	Szerbia
+Yelizaveta Mammadova	184	fogat�	azer	Telekom Baku	Azerbajdzs�n
+Tandara Caixeta	184	fogat�	brazil	Linem�r B�k�scsaba	Magyarorsz�g
+Debby Stam-Pilon	184	s�nc	holland	Fenerbah�e Acibadem	T�r�korsz�g
+Charlotte Leys	184	fogat�	belga	Besiktas	T�r�korsz�g
+Agnieszka Bednarek-Kasza	185	s�nc	lengyel	AGIL Volley	Olaszorsz�g
+Eleonora Dzi�kiewicz	185	s�nc	lengyel	Linem�r B�k�scsaba	Magyarorsz�g
+Bodn�r Dorottya	185	�t�	magyar	Imoco Volley	Olaszorsz�g
+Ivana �erisilo	185	�t�	szerb	Crvena Zvezda	Szerbia
+Jaqueline Carvalho	186	�t�	brazil	Crvena Zvezda	Szerbia
+Logan Tom	186	�t�	amerikai	Rabita Baku	Azerbajdzs�n
+Naz Aydemir	186	fogat�	t�r�k	Imoco Volley	Olaszorsz�g
+Nikola Radosov�	186	�t�	szlov�k	FATUM Ny�regyh�za	Magyarorsz�g
+Neslihan Demir	187	fogat�	t�r�k	Rabita Baku	Azerbajdzs�n
+Martina Guiggi	188	s�nc	olasz	Linem�r B�k�scsaba	Magyarorsz�g
+Marianne Steinbrecher	188	�t�	brazil	Fenerbah�e Acibadem	T�r�korsz�g
+Katarzyna Skowro�ska-Dolata	189	�t�	lengyel	Imoco Volley	Olaszorsz�g
+Malgorzata Glinka-Mogentale	191	�t�	lengyel	AGIL Volley	Olaszorsz�g
+Gabrielle Reece	191	�t�	amerikai	Crvena Zvezda	Szerbia
+Lise Van Hecke	191	fogat�	belga	Besiktas	T�r�korsz�g
+Anja Spasojevic	191	fogat�	szerb	Besiktas	T�r�korsz�g
+Lioubov Sokolova Kili�	192	�t�	orosz	Asystel Novara	Lengyelorsz�g
+Robin de Kruijf	193	�t�	holland	Asystel Novara	Lengyelorsz�g
+Milena Ra�ic	193	s�nc	szerb	Partizan	Szerbia
+Cristina Chirichella	195	�t�	olasz	AGIL Volley	Olaszorsz�g
+Jovana Brakocevic	196	�t�	szerb	Fatum Ny�regyh�za	Magyarorsz�g
+Tha�sa Menezes	196	�t�	brazil	Fatum Ny�regyh�za	Magyarorsz�g
+Yekaterina Gamova	202	�t�	orosz	Telekom Baku	Azerbajdzs�n

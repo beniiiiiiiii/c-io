@@ -2,7 +2,7 @@
 using System.Text;
 using static System.Reflection.Metadata.BlobBuilder;
 
-var fileData = await File.ReadAllLinesAsync("adatok.txt", Encoding.UTF7);
+var fileData = await File.ReadAllLinesAsync("adatok.txt", Encoding.UTF8);
 
 var players = new List<Player>();
 
