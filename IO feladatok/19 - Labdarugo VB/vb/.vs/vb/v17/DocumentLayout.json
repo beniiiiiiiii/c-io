@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.A_Vakos_C#\\c#-io\\IO feladatok\\19 - Labdarugo VB\\vb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CBBD87-8CE1-40E6-937A-5EAFDEAA8911}|vb.csproj|d:\\.a_vakos_c#\\c#-io\\io feladatok\\19 - labdarugo vb\\vb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CBBD87-8CE1-40E6-937A-5EAFDEAA8911}|vb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CBBD87-8CE1-40E6-937A-5EAFDEAA8911}|vb.csproj|d:\\.a_vakos_c#\\c#-io\\io feladatok\\19 - labdarugo vb\\vb\\stadion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CBBD87-8CE1-40E6-937A-5EAFDEAA8911}|vb.csproj|solutionrelative:stadion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stadion.cs",
+              "DocumentMoniker": "D:\\.A_Vakos_C#\\c#-io\\IO feladatok\\19 - Labdarugo VB\\vb\\Stadion.cs",
+              "RelativeDocumentMoniker": "Stadion.cs",
+              "ToolTip": "D:\\.A_Vakos_C#\\c#-io\\IO feladatok\\19 - Labdarugo VB\\vb\\Stadion.cs",
+              "RelativeToolTip": "Stadion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:25:45.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.A_Vakos_C#\\c#-io\\IO feladatok\\19 - Labdarugo VB\\vb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\.A_Vakos_C#\\c#-io\\IO feladatok\\19 - Labdarugo VB\\vb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-18T22:25:17.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\.A_Vakos_C#\c#-io\IO feladatok\19 - Labdarugo VB\vb\bin\Debug\net9.0\vb.exe
+D:\.A_Vakos_C#\c#-io\IO feladatok\19 - Labdarugo VB\vb\bin\Debug\net9.0\vb.deps.json
+D:\.A_Vakos_C#\c#-io\IO feladatok\19 - Labdarugo VB\vb\bin\Debug\net9.0\vb.runtimeconfig.json
+D:\.A_Vakos_C#\c#-io\IO feladatok\19 - Labdarugo VB\vb\bin\Debug\net9.0\vb.dll
+D:\.A_Vakos_C#\c#-io\IO feladatok\19 - Labdarugo VB\vb\bin\Debug\net9.0\vb.pdb
+D:\.A_Vakos_C#\c#-io\IO feladatok\19 - Labdarugo VB\vb\obj\Debug\net9.0\vb.GeneratedMSBuildEditorConfig.editorconfig
+D:\.A_Vakos_C#\c#-io\IO feladatok\19 - Labdarugo VB\vb\obj\Debug\net9.0\vb.AssemblyInfoInputs.cache
+D:\.A_Vakos_C#\c#-io\IO feladatok\19 - Labdarugo VB\vb\obj\Debug\net9.0\vb.AssemblyInfo.cs
+D:\.A_Vakos_C#\c#-io\IO feladatok\19 - Labdarugo VB\vb\obj\Debug\net9.0\vb.csproj.CoreCompileInputs.cache
+D:\.A_Vakos_C#\c#-io\IO feladatok\19 - Labdarugo VB\vb\obj\Debug\net9.0\vb.sourcelink.json
+D:\.A_Vakos_C#\c#-io\IO feladatok\19 - Labdarugo VB\vb\obj\Debug\net9.0\vb.dll
+D:\.A_Vakos_C#\c#-io\IO feladatok\19 - Labdarugo VB\vb\obj\Debug\net9.0\refint\vb.dll
+D:\.A_Vakos_C#\c#-io\IO feladatok\19 - Labdarugo VB\vb\obj\Debug\net9.0\vb.pdb
+D:\.A_Vakos_C#\c#-io\IO feladatok\19 - Labdarugo VB\vb\obj\Debug\net9.0\vb.genruntimeconfig.cache
+D:\.A_Vakos_C#\c#-io\IO feladatok\19 - Labdarugo VB\vb\obj\Debug\net9.0\ref\vb.dll
