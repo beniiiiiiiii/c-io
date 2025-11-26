@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.A_Vakos_C#\\c#-io\\IO feladatok\\12 - EU tagallamok\\EU_Tagallamok\\",
+  "WorkspaceRootPath": "C:\\Users\\b1csoben\\c-io\\IO feladatok\\12 - EU tagallamok\\EU_Tagallamok\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FA19CAB-3E6A-4A31-8973-AD9C678B61BA}|EU_Tagallamok.csproj|d:\\.a_vakos_c#\\c#-io\\io feladatok\\12 - eu tagallamok\\eu_tagallamok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7FA19CAB-3E6A-4A31-8973-AD9C678B61BA}|EU_Tagallamok.csproj|c:\\users\\b1csoben\\c-io\\io feladatok\\12 - eu tagallamok\\eu_tagallamok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7FA19CAB-3E6A-4A31-8973-AD9C678B61BA}|EU_Tagallamok.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\.A_Vakos_C#\\c#-io\\IO feladatok\\12 - EU tagallamok\\EU_Tagallamok\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\b1csoben\\c-io\\IO feladatok\\12 - EU tagallamok\\EU_Tagallamok\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\.A_Vakos_C#\\c#-io\\IO feladatok\\12 - EU tagallamok\\EU_Tagallamok\\Program.cs",
+              "ToolTip": "C:\\Users\\b1csoben\\c-io\\IO feladatok\\12 - EU tagallamok\\EU_Tagallamok\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBoAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBoAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T20:07:03.348Z",
               "EditorCaption": ""
